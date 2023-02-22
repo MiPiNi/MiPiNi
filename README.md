@@ -5,7 +5,7 @@
 <br>
 <div align="center">
 
-🌱 I’m currently learning **React.js, React Native**
+🌱 I’m currently learning **React.js, React Native, Angular, Typescript, Node.js**
 
 👨‍💻 You can check my portfolio [here](https://mipini.github.io/PortfolioPage/)
 
